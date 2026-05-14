@@ -80,8 +80,17 @@ E-hailing surge maps were observed over multiple days to identify:
 
 ## 📸 Research Preview
 
-### O-D Projected Traffic Count — FCT Routes
-![O-D Analysis Chart](od_analysis_chart.png)
+### Survey Analysis — Gender Distribution Across 10 Districts
+![Survey Analysis](Screenshot%20RP%201.png)
+
+### O-D Traffic Count — Projected 2024 Data Across 25 FCT Locations
+![O-D Analysis](Screenshot%20RP%202.png)
+
+### Proposed High-Capacity Bus Routes — Abuja FCT
+![Bus Route Map](Screenshot%20RP%203.png)
+
+### Full Proposed Transport Network — Buses + Taxi Pool Combined
+![Full Transport Network](Screenshot%20RP%204.png)
 
 ---
 
